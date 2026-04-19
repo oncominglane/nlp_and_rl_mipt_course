@@ -1,0 +1,10 @@
+# Model and training artifacts
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Task 2.4 outputs
+task2/4/outputs_zetan_byt5_notebook/
+task2/4/submission_alien_translation.jsonl
