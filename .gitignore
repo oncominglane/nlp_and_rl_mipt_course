@@ -6,5 +6,5 @@
 *.bin
 
 # Task 2.4 outputs
-task2/4/outputs_zetan_byt5_notebook/
-task2/4/submission_alien_translation.jsonl
+C:\dev\nlp_-_rl_mipt_course\task2\4\outputs_zetan_byt5_notebook\best_model\model.safetensors
+C:\dev\nlp_-_rl_mipt_course\task2\4\outputs_zetan_byt5_notebook\last_model\model.safetensors
