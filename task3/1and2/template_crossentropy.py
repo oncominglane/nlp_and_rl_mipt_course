@@ -76,7 +76,7 @@ def generate_session(env, policy, t_max=int(10**4)):
 
     for t in range(t_max):
         # your code here - sample action from policy and get new state, reward, done flag etc. from the environment
-        a = np.random.choice(n_actions, p=policy[s])
+        a = np.random.choice(len(policy[s]), p=policy[s])
         new_s, r, done, truncated, info = env.step(a)
         # Record state, action and add up reward to states,actions and total_reward accordingly.
         states.append(s)
