@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.17)  3 JUN 2026 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.17)  4 JUN 2026 13:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -678,34 +678,35 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 61.
+(./NLP&RL.out) (./NLP&RL.out)
 \@outlinefile=\write3
 \openout3 = `NLP&RL.out'.
 
-[1
+ [1
 
-{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-No file NLP&RL.toc.
-\tf@toc=\write4
-\openout4 = `NLP&RL.toc'.
-
-
+{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./NLP&RL.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \newpage
-               [1]
+l.40 ...РѕСЂРµРЅРёРµ Word2Vec}{34}{subsection.2.2}
+                                                  % [1] [2] [3] [4] [5] [6] [7] [8] [9] [10])
+\tf@toc=\write4
+\openout4 = `NLP&RL.toc'.
+
+ [11]
 Overfull \hbox (45.36423pt too wide) in paragraph at lines 120--121
 []\T2A/cmr/bx/n/12 Sentiment anal-y-sis \T2A/cmr/m/n/12 --- определение тональности текста: положительная, отрицательная
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 129.
-(c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 129.
- (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+
 Overfull \hbox (103.81947pt too wide) detected at line 137
 [] [][]\OMS/cmsy/m/n/12 ! [] [][]! [] [][]! []\OML/cmm/m/it/12 :
  []
@@ -715,12 +716,12 @@ Overfull \hbox (38.23329pt too wide) in paragraph at lines 139--140
 []\T2A/cmr/m/n/12 Иными словами, исходный текст сначала переводится в вектор признаков фиксированной
  []
 
-[2{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[12{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Overfull \hbox (11.42903pt too wide) in paragraph at lines 196--197
 []\T2A/cmr/m/n/12 В этом случае одному тексту может соответствовать сразу несколько меток. Пример
  []
 
-[3] [4] [5]
+[13] [14] [15]
 Overfull \hbox (11.86826pt too wide) in paragraph at lines 345--346
 []\T2A/cmr/m/n/12 В отличие от stem-ming, lemma-ti-za-tion обычно использует словари и грамматическую
  []
@@ -733,12 +734,12 @@ Overfull \hbox (9.89017pt too wide) in paragraph at lines 355--356
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 373.
 (c:/texlive/2026/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [6] [7]
+) [16] [17]
 Overfull \hbox (8.6546pt too wide) in paragraph at lines 469--470
 []\T2A/cmr/m/n/12 Но не все биграммы одинаково полезны. Некоторые несут смысловую информацию: 
  []
 
-[8]
+[18]
 Overfull \hbox (0.7904pt too wide) in paragraph at lines 535--536
 []\T2A/cmr/bx/n/12 Pointwise Mu-tual In-for-ma-tion, PMI \T2A/cmr/m/n/12 измеряет, насколько совместное появление
  []
@@ -748,7 +749,7 @@ Overfull \hbox (37.41188pt too wide) in paragraph at lines 555--556
 []\T2A/cmr/m/n/12 если $\OML/cmm/m/it/12 PMI\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 u; v\OT1/cmr/m/n/12 ) = 0$\T2A/cmr/m/n/12 , совместная встречаемость примерно соответствует независимости; 
  []
 
-[9] [10] [11] [12]
+[19] [20] [21] [22]
 Overfull \hbox (4.06654pt too wide) in paragraph at lines 763--764
 []\T2A/cmr/m/n/12 Пусть построена матрица $\OML/cmm/m/it/12 X$\T2A/cmr/m/n/12 , где элемент $\OML/cmm/m/it/12 X[]$ \T2A/cmr/m/n/12 отражает связь слова $\OML/cmm/m/it/12 i$ \T2A/cmr/m/n/12 и контекстного
  []
@@ -758,12 +759,12 @@ Overfull \hbox (1.91508pt too wide) in paragraph at lines 777--778
 []\T2A/cmr/m/n/12 После этого строки одной из полученных матриц можно использовать как плотные
  []
 
-[13]
+[23]
 Overfull \hbox (10.01178pt too wide) in paragraph at lines 838--839
 []\T2A/cmr/m/n/12 может кодировать переход от мужского человека к мужскому монарху, а добавление 
  []
 
-[14]
+[24]
 Overfull \hbox (8.29141pt too wide) in paragraph at lines 875--876
 \T2A/cmr/bx/n/12 Word2Vec \T2A/cmr/m/n/12 --- семейство моделей для обучения word em-bed-dings, предложенное Mikolov
  []
@@ -773,7 +774,7 @@ Overfull \hbox (14.30861pt too wide) in paragraph at lines 877--878
 []\T2A/cmr/m/n/12 Главная идея Word2Vec: обучать векторы слов через задачу предсказания контекста. 
  []
 
-[15] [16] [17]
+[25] [26] [27]
 Overfull \hbox (35.32162pt too wide) in paragraph at lines 1086--1087
 []\T2A/cmr/m/n/12 для настоящей пары слов $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[]; w[]\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 модель должна предсказать, что это положительный
  []
@@ -783,7 +784,7 @@ Overfull \hbox (66.13965pt too wide) in paragraph at lines 1087--1088
 []\T2A/cmr/m/n/12 дополнительно выбираются несколько случайных слов, которые считаются отрицательными
  []
 
-[18]
+[28]
 Underfull \hbox (badness 2662) in paragraph at lines 1161--1162
 []|\T2A/cmr/m/n/12 Предсказывает слова контекста по
  []
@@ -798,17 +799,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1179--1180
 []|\T2A/cmr/m/n/12 Каждое контекстное слово
  []
 
-<lecture01_cbow_vs_skipgram.png, id=138, 502.87875pt x 615.0478pt>
+<lecture01_cbow_vs_skipgram.png, id=2116, 502.87875pt x 615.0478pt>
 File: lecture01_cbow_vs_skipgram.png Graphic file (type png)
 <use lecture01_cbow_vs_skipgram.png>
 Package pdftex.def Info: lecture01_cbow_vs_skipgram.png  used on input line 1191.
 (pdftex.def)             Requested size: 409.71692pt x 501.10469pt.
-[19]
+[29]
 Overfull \hbox (20.19524pt too wide) in paragraph at lines 1206--1207
 []\T2A/cmr/m/n/12 count-based методами, которые используют статистику совместных встречаемостей; 
  []
 
-[20 <./lecture01_cbow_vs_skipgram.png>]
+[30 <./lecture01_cbow_vs_skipgram.png>]
 Overfull \hbox (3.77927pt too wide) in paragraph at lines 1266--1267
 []\T2A/cmr/m/n/12 То есть скалярное произведение em-bed-dings должно кодировать логарифм частоты
  []
@@ -918,7 +919,7 @@ Underfull \hbox (badness 3872) in paragraph at lines 1310--1310
 \T2A/cmr/m/n/12 предсказывать co-occurrence
  []
 
-[21]
+[31]
 Overfull \hbox (27.20473pt too wide) in paragraph at lines 1321--1322
 []\T2A/cmr/m/n/12 Текст нельзя напрямую подать в классическую ML-модель: его нужно преобразовать
  []
@@ -928,38 +929,38 @@ Overfull \hbox (1.90402pt too wide) in paragraph at lines 1323--1324
 []\T2A/cmr/m/n/12 TF-IDF улучшает BoW, понижая вес слишком общих слов и повышая вес редких
  []
 
-[22]
+[32]
 Overfull \hbox (2.27664pt too wide) in paragraph at lines 1365--1367
 []\T2A/cmr/m/n/12 Уметь объяснить dis-tri-bu-tional hy-poth-e-sis: слова с похожими контекстами имеют
  []
 
-[23]
+[33]
 Overfull \hbox (15.0654pt too wide) in paragraph at lines 1432--1433
 []\T2A/cmr/m/n/12 Идея состоит в том, что слова с похожими контекстами получают похожие векторные
  []
 
-<lecture02_word2vec_training_samples.png, id=179, 442.65375pt x 254.45062pt>
+<lecture02_word2vec_training_samples.png, id=2152, 442.65375pt x 254.45062pt>
 File: lecture02_word2vec_training_samples.png Graphic file (type png)
 <use lecture02_word2vec_training_samples.png>
 Package pdftex.def Info: lecture02_word2vec_training_samples.png  used on input line 1436.
 (pdftex.def)             Requested size: 409.71692pt x 235.53009pt.
-[24]
-<lecture02_word2vec_network.png, id=191, 586.44093pt x 355.3275pt>
+[34]
+<lecture02_word2vec_network.png, id=2160, 586.44093pt x 355.3275pt>
 File: lecture02_word2vec_network.png Graphic file (type png)
 <use lecture02_word2vec_network.png>
 Package pdftex.def Info: lecture02_word2vec_network.png  used on input line 1458.
 (pdftex.def)             Requested size: 386.96027pt x 234.45721pt.
- [25 <./lecture02_word2vec_training_samples.png>]
+ [35 <./lecture02_word2vec_training_samples.png>]
 Overfull \hbox (12.84857pt too wide) in paragraph at lines 1486--1487
 []\T2A/cmr/m/n/12 Если обучить em-bed-dings отдельно для каждого языка, относительное расположение
  []
 
-<lecture02_crosslingual_embeddings_similarity.png, id=198, 496.10344pt x 307.90031pt>
+<lecture02_crosslingual_embeddings_similarity.png, id=2167, 496.10344pt x 307.90031pt>
 File: lecture02_crosslingual_embeddings_similarity.png Graphic file (type png)
 <use lecture02_crosslingual_embeddings_similarity.png>
 Package pdftex.def Info: lecture02_crosslingual_embeddings_similarity.png  used on input line 1496.
 (pdftex.def)             Requested size: 386.96027pt x 240.16597pt.
-[26 <./lecture02_word2vec_network.png>] [27 <./lecture02_crosslingual_embeddings_similarity.png>]
+[36 <./lecture02_word2vec_network.png>] [37 <./lecture02_crosslingual_embeddings_similarity.png>]
 Overfull \hbox (8.21582pt too wide) in paragraph at lines 1559--1560
 []\T2A/cmr/m/n/12 то можно искать матрицу $\OML/cmm/m/it/12 W$\T2A/cmr/m/n/12 , минимизирующую расстояние между отображјнными
  []
@@ -974,18 +975,18 @@ Overfull \hbox (34.31775pt too wide) in paragraph at lines 1601--1602
 \T2A/cmr/m/n/12 полезно, потому что при переводе между языками мы хотим не произвольно деформировать
  []
 
-[28]
-<lecture02_unsupervised_mapping_gan.png, id=218, 560.8453pt x 124.96687pt>
+[38]
+<lecture02_unsupervised_mapping_gan.png, id=2185, 560.8453pt x 124.96687pt>
 File: lecture02_unsupervised_mapping_gan.png Graphic file (type png)
 <use lecture02_unsupervised_mapping_gan.png>
 Package pdftex.def Info: lecture02_unsupervised_mapping_gan.png  used on input line 1649.
 (pdftex.def)             Requested size: 409.71692pt x 91.2918pt.
- [29 <./lecture02_unsupervised_mapping_gan.png>]
+ [39 <./lecture02_unsupervised_mapping_gan.png>]
 Overfull \hbox (4.85199pt too wide) in paragraph at lines 1699--1700
 []\T2A/cmr/m/n/12 Нормировка убирает влияние длины векторов и оставляет в основном направление. 
  []
 
-[30]
+[40]
 Overfull \hbox (6.07515pt too wide) in paragraph at lines 1723--1724
 []\T2A/cmr/m/n/12 Другой способ --- использовать модели последовательностей, например RNN, LSTM
  []
@@ -1010,34 +1011,34 @@ Overfull \hbox (14.35345pt too wide) in paragraph at lines 1762--1763
 \T2A/cmr/m/n/12 RNN естественно обрабатывает текст как последовательность. Но у неј есть недостаток:
  []
 
-[31]
+[41]
 Overfull \hbox (31.54404pt too wide) in paragraph at lines 1833--1834
 \T2A/cmr/m/n/12 а обучает фильтры, которые могут находить полезные паттерны в embedding-пространстве. 
  []
 
-[32]
-<lecture02_bigram_convolution.png, id=246, 325.96782pt x 149.05687pt>
+[42]
+<lecture02_bigram_convolution.png, id=2205, 325.96782pt x 149.05687pt>
 File: lecture02_bigram_convolution.png Graphic file (type png)
 <use lecture02_bigram_convolution.png>
 Package pdftex.def Info: lecture02_bigram_convolution.png  used on input line 1886.
 (pdftex.def)             Requested size: 386.96027pt x 176.96138pt.
- [33 <./lecture02_bigram_convolution.png>]
+ [43 <./lecture02_bigram_convolution.png>]
 Overfull \hbox (6.5419pt too wide) in paragraph at lines 1910--1911
 []\T2A/cmr/m/n/12 Затем применяется pool-ing. Самый распространјнный вариант для классификации
  []
 
-[34]
-<lecture02_kim2014_cnn.png, id=264, 555.57562pt x 250.68657pt>
+[44]
+<lecture02_kim2014_cnn.png, id=2221, 555.57562pt x 250.68657pt>
 File: lecture02_kim2014_cnn.png Graphic file (type png)
 <use lecture02_kim2014_cnn.png>
 Package pdftex.def Info: lecture02_kim2014_cnn.png  used on input line 1977.
 (pdftex.def)             Requested size: 409.71692pt x 184.874pt.
- [35 <./lecture02_kim2014_cnn.png>]
+ [45 <./lecture02_kim2014_cnn.png>]
 Overfull \hbox (5.23267pt too wide) in paragraph at lines 2019--2020
 \T2A/cmr/m/n/12 по краям последовательности. Это позволяет фильтру применяться также к позициям
  []
 
-[36]
+[46]
 Overfull \hbox (23.20607pt too wide) in paragraph at lines 2051--2052
 []\T2A/cmr/m/n/12 То есть CNN сжимает исходное предложение в представление, а RNN затем генерирует
  []
@@ -1052,22 +1053,22 @@ Overfull \hbox (21.55893pt too wide) in paragraph at lines 2073--2074
 \T2A/cmr/m/n/12 предобученными em-bed-dings может давать сильные результаты в задачах классификации
  []
 
-[37]
+[47]
 Overfull \hbox (13.01047pt too wide) in paragraph at lines 2094--2095
 []\T2A/cmr/m/n/12 В машинном переводе at-ten-tion позволяет модели явно сопоставлять слова исходного
  []
 
-<lecture02_attention_alignment.png, id=285, 554.82281pt x 263.48438pt>
+<lecture02_attention_alignment.png, id=2237, 554.82281pt x 263.48438pt>
 File: lecture02_attention_alignment.png Graphic file (type png)
 <use lecture02_attention_alignment.png>
 Package pdftex.def Info: lecture02_attention_alignment.png  used on input line 2108.
 (pdftex.def)             Requested size: 386.96027pt x 183.76637pt.
-[38]
+[48]
 Overfull \hbox (12.19809pt too wide) in paragraph at lines 2131--2132
 []\T2A/cmr/m/n/12 Это мотивирует переход к более сложным моделям контекстуальных представлений:
  []
 
-[39 <./lecture02_attention_alignment.png>]
+[49 <./lecture02_attention_alignment.png>]
 Overfull \hbox (0.71463pt too wide) in paragraph at lines 2140--2141
 []\T2A/cmr/m/n/12 Ортогональное отображение сохраняет углы и длины, поэтому хорошо подходит
  []
@@ -1092,12 +1093,12 @@ Overfull \hbox (40.52014pt too wide) in paragraph at lines 2153--2154
 []\T2A/cmr/m/n/12 Уметь объяснить, почему embedding-пространства разных языков можно сопоставлять. 
  []
 
-[40]
+[50]
 Overfull \hbox (0.14252pt too wide) in paragraph at lines 2217--2217
 []\T2A/cmr/bx/n/17.28 Лекция 3. Ma-chine Trans-la-tion and At-ten-tion Mech-
  []
 
-[41]
+[51]
 Overfull \hbox (19.26054pt too wide) in paragraph at lines 2241--2242
 \T2A/cmr/m/n/12 7 января 1954 года. В нјм выполнялся автоматический перевод с русского на английский: 
  []
@@ -1107,7 +1108,7 @@ Overfull \hbox (6.15715pt too wide) in paragraph at lines 2252--2253
 []\T2A/cmr/m/n/12 Дальше развитие машинного перевода можно грубо разделить на несколько этапов: 
  []
 
-[42]
+[52]
 Overfull \hbox (32.91455pt too wide) in paragraph at lines 2284--2285
 []\T2A/cmr/m/n/12 Иногда параллельные данные могут быть выровнены на уровне абзацев или документов,
  []
@@ -1122,55 +1123,34 @@ Overfull \hbox (26.06717pt too wide) in paragraph at lines 2326--2327
 []\T2A/cmr/bx/n/12 language model $\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 y\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 --- оценивает, насколько предложение $\OML/cmm/m/it/12 y$ \T2A/cmr/m/n/12 является естественным
  []
 
-[43]
-
-LaTeX Warning: File `lecture03_smt_bayes.png' not found on input line 2345.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:2345: Package pdftex.def Error: File `lecture03_smt_bayes.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2345 ...=0.9\textwidth]{lecture03_smt_bayes.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[44]
+[53]
+<lecture03_smt_bayes.png, id=2276, 536.0025pt x 217.5628pt>
+File: lecture03_smt_bayes.png Graphic file (type png)
+<use lecture03_smt_bayes.png>
+Package pdftex.def Info: lecture03_smt_bayes.png  used on input line 2345.
+(pdftex.def)             Requested size: 409.71692pt x 166.3022pt.
+ [54 <./lecture03_smt_bayes.png>]
 Overfull \hbox (40.19116pt too wide) in paragraph at lines 2383--2384
 []\T2A/cmr/m/n/12 Например, английское словосочетание может переводиться одним словом во французском
  []
 
-[45]
-
-LaTeX Warning: File `lecture03_word_alignment_many_to_many.png' not found on input line 2422.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:2422: Package pdftex.def Error: File `lecture03_word_alignment_many_to_many.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2422 ...cture03_word_alignment_many_to_many.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[46]
+<lecture03_word_alignment_many_to_many.png, id=2284, 427.5975pt x 252.945pt>
+File: lecture03_word_alignment_many_to_many.png Graphic file (type png)
+<use lecture03_word_alignment_many_to_many.png>
+Package pdftex.def Info: lecture03_word_alignment_many_to_many.png  used on input line 2422.
+(pdftex.def)             Requested size: 386.96027pt x 228.90663pt.
+[55]
 Overfull \hbox (23.72783pt too wide) in paragraph at lines 2450--2451
 \T2A/cmr/bx/n/12 Phrase-Based Ma-chine Trans-la-tion, PBMT \T2A/cmr/m/n/12 --- развитие SMT, где перевод выполняется
  []
 
-
+[56 <./lecture03_word_alignment_many_to_many.png>]
 Overfull \hbox (1.26048pt too wide) in paragraph at lines 2495--2496
 \T2A/cmr/m/n/12 Language model оценивает вероятность следующего слова по предыдущему контексту: 
  []
 
-[47]
-<lecture03_pbmt_search.png, id=359, 495.35063pt x 347.79938pt>
+[57]
+<lecture03_pbmt_search.png, id=2299, 495.35063pt x 347.79938pt>
 File: lecture03_pbmt_search.png Graphic file (type png)
 <use lecture03_pbmt_search.png>
 Package pdftex.def Info: lecture03_pbmt_search.png  used on input line 2541.
@@ -1180,18 +1160,18 @@ Underfull \hbox (badness 1253) in paragraph at lines 2542--2542
 []\T2A/cmr/m/n/12 Figure 11: []Phrase-Based Ma-chine Trans-la-tion: перевод строится из фразовых
  []
 
-[48]
+
 Overfull \hbox (32.63264pt too wide) in paragraph at lines 2547--2548
 \T2A/cmr/bx/n/12 Neural Ma-chine Trans-la-tion, NMT \T2A/cmr/m/n/12 --- подход, в котором машинный перевод выполняется
  []
 
-[49 <./lecture03_pbmt_search.png>] [50]
-<lecture03_seq2seq_decoding.png, id=381, 704.6325pt x 391.4625pt>
+[58 <./lecture03_pbmt_search.png>] [59]
+<lecture03_seq2seq_decoding.png, id=2310, 704.6325pt x 391.4625pt>
 File: lecture03_seq2seq_decoding.png Graphic file (type png)
 <use lecture03_seq2seq_decoding.png>
 Package pdftex.def Info: lecture03_seq2seq_decoding.png  used on input line 2656.
 (pdftex.def)             Requested size: 409.71692pt x 227.62183pt.
- [51 <./lecture03_seq2seq_decoding.png>]
+ [60]
 Overfull \hbox (21.49576pt too wide) in paragraph at lines 2696--2697
 []\T2A/cmr/m/n/12 Во время обучения часто используется teacher forc-ing: на вход decoder-а на следующем
  []
@@ -1201,22 +1181,22 @@ Overfull \hbox (4.7215pt too wide) in paragraph at lines 2696--2697
 \T2A/cmr/m/n/12 шаге подајтся правильный предыдущий токен, а не обязательно токен, предсказанный
  []
 
-
+[61 <./lecture03_seq2seq_decoding.png>]
 Overfull \hbox (8.61147pt too wide) in paragraph at lines 2718--2719
 []\T2A/cmr/m/n/12 локально лучший токен не обязательно ведјт к глобально лучшему предложению; 
  []
 
-[52]
+[62]
 Overfull \hbox (2.60242pt too wide) in paragraph at lines 2790--2791
 []\T2A/cmr/m/n/12 Beam search ищет high-scoring hy-pothe-ses, но не гарантирует нахождение глобально
  []
 
-<lecture03_beam_search_example.png, id=395, 609.02531pt x 344.03531pt>
+<lecture03_beam_search_example.png, id=2326, 609.02531pt x 344.03531pt>
 File: lecture03_beam_search_example.png Graphic file (type png)
 <use lecture03_beam_search_example.png>
 Package pdftex.def Info: lecture03_beam_search_example.png  used on input line 2795.
 (pdftex.def)             Requested size: 409.71692pt x 231.45262pt.
-[53] [54 <./lecture03_beam_search_example.png>]
+[63 <./lecture03_beam_search_example.png>]
 Overfull \hbox (2.66986pt too wide) in paragraph at lines 2838--2839
 []\T2A/cmr/m/n/12 Так как вероятности меньше или равны 1, их логарифмы обычно неположительны: 
  []
@@ -1226,12 +1206,12 @@ Overfull \hbox (13.98451pt too wide) in paragraph at lines 2860--2861
 \T2A/cmr/m/n/12 Для оценки качества машинного перевода используются автоматические и человеческие
  []
 
-[55]
+[64] [65]
 Overfull \hbox (4.52783pt too wide) in paragraph at lines 2962--2963
 []\T2A/cmr/m/n/12 Главная проблема: одно и то же предложение можно корректно перевести разными
  []
 
-[56]
+[66]
 Overfull \hbox (4.78673pt too wide) in paragraph at lines 3006--3007
 []\T2A/cmr/m/n/12 Человеческая оценка обычно качественнее автоматических метрик, но она дорогая. 
  []
@@ -1241,7 +1221,7 @@ Overfull \hbox (40.28915pt too wide) in paragraph at lines 3010--3011
 \T2A/cmr/m/n/12 Так как hu-man eval-u-a-tion дорогая, появляются модели, обученные приближать человеческую
  []
 
-[57]
+
 Overfull \hbox (9.25632pt too wide) in paragraph at lines 3017--3018
 []\T2A/cmr/bx/n/12 LLM-based es-ti-ma-tors \T2A/cmr/m/n/12 --- использование больших языковых моделей для оценки
  []
@@ -1251,22 +1231,22 @@ Overfull \hbox (5.5114pt too wide) in paragraph at lines 3030--3031
 []\T2A/cmr/m/n/12 нет необходимости вручную оптимизировать множество отдельных компонентов; 
  []
 
-
+[67]
 Overfull \hbox (20.1232pt too wide) in paragraph at lines 3047--3048
 []\T2A/cmr/m/n/12 Нейронные модели могут давать странные переводы на необычных входах, опечатках,
  []
 
-[58]
+[68]
 Overfull \hbox (11.85258pt too wide) in paragraph at lines 3083--3084
 \T2A/cmr/m/n/12 представление исходного предложения. Поэтому модель может терять детали, особенно
  []
 
-<lecture03_seq2seq_bottleneck.png, id=440, 707.64375pt x 394.47375pt>
+<lecture03_seq2seq_bottleneck.png, id=2355, 707.64375pt x 394.47375pt>
 File: lecture03_seq2seq_bottleneck.png Graphic file (type png)
 <use lecture03_seq2seq_bottleneck.png>
 Package pdftex.def Info: lecture03_seq2seq_bottleneck.png  used on input line 3088.
 (pdftex.def)             Requested size: 409.71692pt x 228.39766pt.
-[59]
+
 Overfull \hbox (0.78673pt too wide) in paragraph at lines 3099--3100
 \T2A/cmr/m/n/12 чтобы фокусироваться на конкретной части исходной последовательности. 
  []
@@ -1276,23 +1256,13 @@ Overfull \hbox (2.24567pt too wide) in paragraph at lines 3102--3103
 []\T2A/cmr/m/n/12 То есть de-coder больше не обязан пользоваться только одним финальным вектором
  []
 
-[60 <./lecture03_seq2seq_bottleneck.png>]
-
-LaTeX Warning: File `lecture03_attention_weighted_sum.png' not found on input line 3186.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:3186: Package pdftex.def Error: File `lecture03_attention_weighted_sum.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3186 ...h]{lecture03_attention_weighted_sum.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[61] [62] [63]
+[69 <./lecture03_seq2seq_bottleneck.png>] [70]
+<lecture03_attention_weighted_sum.png, id=2366, 429.85594pt x 310.15875pt>
+File: lecture03_attention_weighted_sum.png Graphic file (type png)
+<use lecture03_attention_weighted_sum.png>
+Package pdftex.def Info: lecture03_attention_weighted_sum.png  used on input line 3186.
+(pdftex.def)             Requested size: 386.96027pt x 279.21127pt.
+ [71 <./lecture03_attention_weighted_sum.png>] [72]
 Overfull \hbox (23.94106pt too wide) in paragraph at lines 3317--3318
 []\T2A/cmr/m/n/12 Позже идея at-ten-tion приведјт к Trans-former, где at-ten-tion станет главным механизмом
  []
@@ -1392,7 +1362,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3346--3347
 \T2A/cmr/m/n/12 но всј ещј требует
  []
 
-[64] [65] [66] [67]
+[73] [74] [75] [76]
 Overfull \hbox (2.63515pt too wide) in paragraph at lines 3546--3547
 []\T2A/cmr/m/n/12 Главная идея лекции: Trans-former заменяет рекуррентность и свјртки механизмом
  []
@@ -1402,82 +1372,52 @@ Overfull \hbox (52.42776pt too wide) in paragraph at lines 3546--3547
 \T2A/cmr/m/n/12 последовательности, хорошо параллелится и эффективно работает с длинными зависимостями. 
  []
 
-[68]
+[77]
 Overfull \hbox (7.22859pt too wide) in paragraph at lines 3594--3595
 []\T2A/cmr/m/n/12 CNN для текста хорошо ловит локальные паттерны, но для моделирования дальних
  []
 
-[69] [70]
+[78] [79]
 Overfull \hbox (82.95557pt too wide) in paragraph at lines 3699--3700
 []\T2A/cmr/bx/n/12 Better re-sults on long se-quences\T2A/cmr/m/n/12 : модель лучше работает с длинными последовательностями,
  []
 
-
-LaTeX Warning: File `lecture04_attention_advantages.png' not found on input line 3705.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:3705: Package pdftex.def Error: File `lecture04_attention_advantages.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3705 ...dth]{lecture04_attention_advantages.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<lecture04_attention_advantages.png, id=2425, 619.56468pt x 292.84406pt>
+File: lecture04_attention_advantages.png Graphic file (type png)
+<use lecture04_attention_advantages.png>
+Package pdftex.def Info: lecture04_attention_advantages.png  used on input line 3705.
+(pdftex.def)             Requested size: 386.96027pt x 182.89749pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3706--3706
 []\T2A/cmr/m/n/12 Figure 16: []Преимущества at-ten-tion: лучшее качество на длинных
  []
 
-[71]
+[80 <./lecture04_attention_advantages.png>]
 Overfull \hbox (7.36871pt too wide) in paragraph at lines 3719--3720
 []\T2A/cmr/m/n/12 Transformer был предложен для машинного перевода и показал сильные результаты
  []
 
-[72]
+
 Overfull \hbox (22.47469pt too wide) in paragraph at lines 3744--3745
 []\T2A/cmr/m/n/12 Encoder читает входную последовательность и строит контекстуальные представления
  []
 
-
-LaTeX Warning: File `lecture04_transformer_stack.png' not found on input line 3758.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:3758: Package pdftex.def Error: File `lecture04_transformer_stack.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3758 ...twidth]{lecture04_transformer_stack.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[73]
+<lecture04_transformer_stack.png, id=2433, 482.55281pt x 303.38344pt>
+File: lecture04_transformer_stack.png Graphic file (type png)
+<use lecture04_transformer_stack.png>
+Package pdftex.def Info: lecture04_transformer_stack.png  used on input line 3758.
+(pdftex.def)             Requested size: 386.96027pt x 243.29036pt.
+[81]
 Overfull \hbox (74.52307pt too wide) in paragraph at lines 3785--3786
 []\T2A/cmr/m/n/12 Self-attention позволяет каждому токену учитывать другие токены входной последовательности. 
  []
 
-
-LaTeX Warning: File `lecture04_encoder_block.png' not found on input line 3792.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:3792: Package pdftex.def Error: File `lecture04_encoder_block.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3792 ...\textwidth]{lecture04_encoder_block.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[74]
+<lecture04_encoder_block.png, id=2438, 567.62062pt x 310.15875pt>
+File: lecture04_encoder_block.png Graphic file (type png)
+<use lecture04_encoder_block.png>
+Package pdftex.def Info: lecture04_encoder_block.png  used on input line 3792.
+(pdftex.def)             Requested size: 364.19667pt x 199.01204pt.
+[82 <./lecture04_transformer_stack.png>]
 Overfull \hbox (1.47583pt too wide) in paragraph at lines 3796--3797
 \T2A/cmr/m/n/12 последовательно. Поэтому вычисления внутри слоя можно эффективно параллелить. 
  []
@@ -1487,23 +1427,12 @@ Overfull \hbox (22.40746pt too wide) in paragraph at lines 3800--3801
 \T2A/cmr/m/n/12 Self-attention нужен, чтобы при обработке каждого токена учитывать другие релевантные
  []
 
-[75]
-
-LaTeX Warning: File `lecture04_self_attention_high_level.png' not found on input line 3827.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:3827: Package pdftex.def Error: File `lecture04_self_attention_high_level.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3827 ...lecture04_self_attention_high_level.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[76]
+<lecture04_self_attention_high_level.png, id=2447, 324.46219pt x 298.86656pt>
+File: lecture04_self_attention_high_level.png Graphic file (type png)
+<use lecture04_self_attention_high_level.png>
+Package pdftex.def Info: lecture04_self_attention_high_level.png  used on input line 3827.
+(pdftex.def)             Requested size: 341.43307pt x 314.52142pt.
+[83 <./lecture04_encoder_block.png>] [84 <./lecture04_self_attention_high_level.png>]
 Overfull \hbox (8.94887pt too wide) in paragraph at lines 3874--3875
 []\T2A/cmr/bx/n/12 Value \T2A/cmr/m/n/12 --- какая информация будет передана, если на этот токен обратят внимание. 
  []
@@ -1518,28 +1447,17 @@ Overfull \hbox (13.8254pt too wide) in paragraph at lines 3895--3896
 \T2A/cmr/m/n/12 скалярные произведения могут иметь большую дисперсию, soft-max становится слишком
  []
 
-[77]
-
-LaTeX Warning: File `lecture04_scaled_dot_product_attention.png' not found on input line 3924.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:3924: Package pdftex.def Error: File `lecture04_scaled_dot_product_attention.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3924 ...ture04_scaled_dot_product_attention.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[78]
+<lecture04_scaled_dot_product_attention.png, id=2461, 605.26125pt x 298.11375pt>
+File: lecture04_scaled_dot_product_attention.png Graphic file (type png)
+<use lecture04_scaled_dot_product_attention.png>
+Package pdftex.def Info: lecture04_scaled_dot_product_attention.png  used on input line 3924.
+(pdftex.def)             Requested size: 364.19667pt x 179.37909pt.
+[85] [86 <./lecture04_scaled_dot_product_attention.png>]
 Overfull \hbox (9.64944pt too wide) in paragraph at lines 4002--4003
 []\T2A/cmr/m/n/12 В self-attention любая позиция может напрямую обратиться к любой другой позиции
  []
 
-[79]
+
 Overfull \hbox (9.15506pt too wide) in paragraph at lines 4026--4027
 \T2A/cmr/m/n/12 После self-attention представление каждого токена зависит от всей последовательности.
  []
@@ -1549,7 +1467,7 @@ Overfull \hbox (36.34079pt too wide) in paragraph at lines 4032--4033
 []\T2A/cmr/m/n/12 Но одной attention-головы может быть недостаточно: разные типы связей в предложении
  []
 
-[80]
+[87] [88]
 Overfull \hbox (26.71877pt too wide) in paragraph at lines 4099--4100
 []\T2A/cmr/m/n/12 То есть это несколько at-ten-tion lay-ers, работающих параллельно с разными обучаемыми
  []
@@ -1589,7 +1507,7 @@ Overfull \hbox (4.23201pt too wide) in paragraph at lines 4129--4130
 \T2A/cmr/m/n/12 информации не имеет встроенного способа понять, какая позиция была первой, второй
  []
 
-[81]
+[89]
 Overfull \hbox (54.62097pt too wide) in paragraph at lines 4157--4158
 []\T2A/cmr/m/n/12 расстояние между одинаковыми позициями должно сохраняться для последовательностей
  []
@@ -1599,32 +1517,22 @@ Overfull \hbox (24.79637pt too wide) in paragraph at lines 4159--4160
 []\T2A/cmr/m/n/12 желательно, чтобы он работал с последовательностями длиннее тех, что встречались
  []
 
-[82]
+
 Overfull \hbox (13.4408pt too wide) in paragraph at lines 4206--4207
 []\T2A/cmr/m/n/12 разные частоты позволяют кодировать как локальные, так и дальние позиционные
  []
 
-
-LaTeX Warning: File `lecture04_positional_encoding_sincos.png' not found on input line 4212.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:4212: Package pdftex.def Error: File `lecture04_positional_encoding_sincos.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4212 ...ecture04_positional_encoding_sincos.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[83]
+<lecture04_positional_encoding_sincos.png, id=2485, 571.38469pt x 258.21469pt>
+File: lecture04_positional_encoding_sincos.png Graphic file (type png)
+<use lecture04_positional_encoding_sincos.png>
+Package pdftex.def Info: lecture04_positional_encoding_sincos.png  used on input line 4212.
+(pdftex.def)             Requested size: 386.96027pt x 174.87051pt.
+[90]
 Overfull \hbox (2.73093pt too wide) in paragraph at lines 4257--4258
 \T2A/cmr/m/n/12 многих com-puter vi-sion задачах, но может быть менее удобно для последовательностей
  []
 
-
+[91 <./lecture04_positional_encoding_sincos.png>]
 Underfull \hbox (badness 2020) in paragraph at lines 4271--4272
 []|\T2A/cmr/m/n/12 Не зависит от других объектов в
  []
@@ -1639,23 +1547,13 @@ Overfull \hbox (6.25093pt too wide) in paragraph at lines 4285--4286
 \T2A/cmr/m/n/12 Хотя в презентации основной акцент сделан на at-ten-tion и nor-mal-iza-tion, в стандартном
  []
 
-[84] [85]
-
-LaTeX Warning: File `lecture04_decoder_mask.png' not found on input line 4389.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:4389: Package pdftex.def Error: File `lecture04_decoder_mask.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4389 ...5\textwidth]{lecture04_decoder_mask.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[86] [87]
+[92] [93]
+<lecture04_decoder_mask.png, id=2509, 448.67625pt x 277.035pt>
+File: lecture04_decoder_mask.png Graphic file (type png)
+<use lecture04_decoder_mask.png>
+Package pdftex.def Info: lecture04_decoder_mask.png  used on input line 4389.
+(pdftex.def)             Requested size: 386.96027pt x 238.93448pt.
+ [94 <./lecture04_decoder_mask.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 4472--4472
 []|\T2A/cmr/m/n/12 Естественно моделирует
  []
@@ -1720,7 +1618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4481--4482
 \T2A/cmr/m/n/12 сложность по длине
  []
 
-[88]
+[95]
 Overfull \hbox (4.03612pt too wide) in paragraph at lines 4496--4497
 []\T2A/cmr/m/n/12 Поэтому сложность по времени и памяти относительно длины последовательности: 
  []
@@ -1745,90 +1643,50 @@ Overfull \hbox (78.76787pt too wide) in paragraph at lines 4525--4526
 []\T2A/cmr/m/n/12 Self-attention позволяет каждому токену учитывать все остальные токены последовательности. 
  []
 
-[89]
+[96]
 Overfull \hbox (25.4816pt too wide) in paragraph at lines 4542--4543
 []\T2A/cmr/m/n/12 Transformer хорошо параллелится и имеет короткий путь между любыми позициями. 
  []
 
-[90] [91] [92]
-
-LaTeX Warning: File `lecture05_self_attention_matrix.png' not found on input line 4756.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:4756: Package pdftex.def Error: File `lecture05_self_attention_matrix.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4756 ...th]{lecture05_self_attention_matrix.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[93] [94]
+[97] [98] [99]
+<lecture05_self_attention_matrix.png, id=2553, 534.49687pt x 290.58563pt>
+File: lecture05_self_attention_matrix.png Graphic file (type png)
+<use lecture05_self_attention_matrix.png>
+Package pdftex.def Info: lecture05_self_attention_matrix.png  used on input line 4756.
+(pdftex.def)             Requested size: 341.43307pt x 185.63275pt.
+ [100 <./lecture05_self_attention_matrix.png>]
 Overfull \hbox (36.508pt too wide) in paragraph at lines 4806--4807
 []\T2A/cmr/m/n/12 Смысл multi-head at-ten-tion: разные головы могут смотреть на разные типы зависимостей
  []
 
-
-LaTeX Warning: File `lecture05_multi_head_attention.png' not found on input line 4820.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:4820: Package pdftex.def Error: File `lecture05_multi_head_attention.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4820 ...dth]{lecture05_multi_head_attention.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[95]
+<lecture05_multi_head_attention.png, id=2560, 581.92406pt x 322.95656pt>
+File: lecture05_multi_head_attention.png Graphic file (type png)
+<use lecture05_multi_head_attention.png>
+Package pdftex.def Info: lecture05_multi_head_attention.png  used on input line 4820.
+(pdftex.def)             Requested size: 409.71692pt x 227.38872pt.
+[101]
 Overfull \hbox (23.45357pt too wide) in paragraph at lines 4842--4843
 []\T2A/cmr/m/n/12 Positional en-cod-ing нужен, чтобы модель могла различать предложения с одинаковыми
  []
 
-[96]
-
-LaTeX Warning: File `lecture05_positional_encoding.png' not found on input line 4883.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:4883: Package pdftex.def Error: File `lecture05_positional_encoding.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4883 ...idth]{lecture05_positional_encoding.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[97] [98] [99]
-
-LaTeX Warning: File `lecture05_transformer_recap.png' not found on input line 4987.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:4987: Package pdftex.def Error: File `lecture05_transformer_recap.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4987 ...twidth]{lecture05_transformer_recap.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[102 <./lecture05_multi_head_attention.png>]
+<lecture05_positional_encoding.png, id=2572, 537.50812pt x 322.20375pt>
+File: lecture05_positional_encoding.png Graphic file (type png)
+<use lecture05_positional_encoding.png>
+Package pdftex.def Info: lecture05_positional_encoding.png  used on input line 4883.
+(pdftex.def)             Requested size: 386.96027pt x 231.96193pt.
+ [103 <./lecture05_positional_encoding.png>] [104]
+<lecture05_transformer_recap.png, id=2583, 475.02469pt x 325.215pt>
+File: lecture05_transformer_recap.png Graphic file (type png)
+<use lecture05_transformer_recap.png>
+Package pdftex.def Info: lecture05_transformer_recap.png  used on input line 4987.
+(pdftex.def)             Requested size: 341.43307pt x 233.76259pt.
 
 Overfull \hbox (5.36496pt too wide) in paragraph at lines 4993--4994
 \T2A/cmr/bx/n/12 Transfer learn-ing \T2A/cmr/m/n/12 --- подход, при котором модель сначала обучается на одной большой
  []
 
-[100]
+[105 <./lecture05_transformer_recap.png>]
 Overfull \hbox (23.77994pt too wide) in paragraph at lines 5015--5016
 []\T2A/cmr/m/n/12 Главное преимущество: для pre-training можно использовать огромные неразмеченные
  []
@@ -1843,23 +1701,13 @@ Overfull \hbox (18.17874pt too wide) in paragraph at lines 5053--5054
 \T2A/cmr/m/n/12 После pre-training слои модели уже умеют разумно обрабатывать язык. Для downstream-
  []
 
-[101]
+[106]
+<lecture05_openai_transformer_finetuning.png, id=2596, 566.86781pt x 299.61937pt>
+File: lecture05_openai_transformer_finetuning.png Graphic file (type png)
+<use lecture05_openai_transformer_finetuning.png>
+Package pdftex.def Info: lecture05_openai_transformer_finetuning.png  used on input line 5078.
+(pdftex.def)             Requested size: 386.96027pt x 204.53397pt.
 
-LaTeX Warning: File `lecture05_openai_transformer_finetuning.png' not found on input line 5078.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5078: Package pdftex.def Error: File `lecture05_openai_transformer_finetuning.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5078 ...ure05_openai_transformer_finetuning.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[102]
 Overfull \hbox (34.5675pt too wide) in paragraph at lines 5091--5092
 []\T2A/cmr/bx/n/12 Similarity\T2A/cmr/m/n/12 : подаются две версии пары текстов, затем их представления сравниваются. 
  []
@@ -1869,83 +1717,54 @@ Overfull \hbox (65.86124pt too wide) in paragraph at lines 5092--5093
 []\T2A/cmr/bx/n/12 Multiple choice\T2A/cmr/m/n/12 : для каждого варианта ответа формируется отдельная последовательность
  []
 
-
-LaTeX Warning: File `lecture05_input_transformations.png' not found on input line 5098.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5098: Package pdftex.def Error: File `lecture05_input_transformations.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5098 ...th]{lecture05_input_transformations.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
+<lecture05_input_transformations.png, id=2597, 557.83406pt x 316.93407pt>
+File: lecture05_input_transformations.png Graphic file (type png)
+<use lecture05_input_transformations.png>
+Package pdftex.def Info: lecture05_input_transformations.png  used on input line 5098.
+(pdftex.def)             Requested size: 432.48051pt x 245.72292pt.
+[107 <./lecture05_openai_transformer_finetuning.png>]
 Overfull \hbox (10.78658pt too wide) in paragraph at lines 5104--5105
 \T2A/cmr/m/n/12 До контекстуальных em-bed-dings одно слово обычно имело один фиксированный вектор. 
  []
 
-[103]
+
 Overfull \hbox (20.72005pt too wide) in paragraph at lines 5139--5140
 []\T2A/cmr/m/n/12 Давать слову em-bed-ding, зависящий от контекста, в котором оно используется. 
  []
 
-[104]
-
-LaTeX Warning: File `lecture05_elmo_bilm.png' not found on input line 5188.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5188: Package pdftex.def Error: File `lecture05_elmo_bilm.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5188 ...0.85\textwidth]{lecture05_elmo_bilm.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[105]
+[108 <./lecture05_input_transformations.png>]
+<lecture05_elmo_bilm.png, id=2611, 584.1825pt x 292.09125pt>
+File: lecture05_elmo_bilm.png Graphic file (type png)
+<use lecture05_elmo_bilm.png>
+Package pdftex.def Info: lecture05_elmo_bilm.png  used on input line 5188.
+(pdftex.def)             Requested size: 386.96027pt x 193.485pt.
+ [109 <./lecture05_elmo_bilm.png>]
 Overfull \hbox (4.18687pt too wide) in paragraph at lines 5227--5228
 []\T2A/cmr/m/n/12 ELMo можно добавить почти в любую нейронную NLP-модель через конкатенацию
  []
 
+[110]
+<lecture05_bert_classification.png, id=2622, 572.1375pt x 231.11343pt>
+File: lecture05_bert_classification.png Graphic file (type png)
+<use lecture05_bert_classification.png>
+Package pdftex.def Info: lecture05_bert_classification.png  used on input line 5270.
+(pdftex.def)             Requested size: 386.96027pt x 156.31221pt.
 
-LaTeX Warning: File `lecture05_bert_classification.png' not found on input line 5270.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5270: Package pdftex.def Error: File `lecture05_bert_classification.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5270 ...idth]{lecture05_bert_classification.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[106] [107]
 Overfull \hbox (3.70981pt too wide) in paragraph at lines 5298--5299
 []\T2A/cmr/m/n/12 Для классификации в начало последовательности добавляется специальный токен: 
  []
 
-
+[111 <./lecture05_bert_classification.png>]
 Overfull \hbox (9.22437pt too wide) in paragraph at lines 5312--5313
 []\T2A/cmr/m/n/12 Для sen-tence clas-si-fi-ca-tion обычно берјтся вектор первой позиции, соответствующий: 
  []
 
-[108] [109] [110]
+[112] [113] [114]
 Overfull \hbox (4.29933pt too wide) in paragraph at lines 5496--5497
 []\T2A/cmr/m/n/12 Fine-tuning обычно дајт лучшее качество, но fea-ture ex-trac-tion может быть полезен,
  []
 
-[111]
+
 Underfull \hbox (badness 2293) in paragraph at lines 5558--5559
 []|\T2A/cmr/m/n/12 Контекстуальные em-bed-dings
  []
@@ -1965,7 +1784,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5566--5567
 []|\T2A/cmr/m/n/12 Bidirectional rep-re-sen-ta-tions
  []
 
-[112] [113]
+[115] [116] [117]
 Overfull \hbox (10.075pt too wide) in paragraph at lines 5689--5690
 []\T2A/cmr/m/n/12 Главная идея лекции: можно обучать полезные представления без ручной разметки.
  []
@@ -1980,28 +1799,18 @@ Overfull \hbox (17.90215pt too wide) in paragraph at lines 5693--5694
 \T2A/cmr/bx/n/12 Self-supervised learn-ing \T2A/cmr/m/n/12 --- подход, при котором модель обучается без ручной разметки,
  []
 
-[114] [115] [116]
-
-LaTeX Warning: File `lecture06_ssl_evaluation_pipeline.png' not found on input line 5794.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5794: Package pdftex.def Error: File `lecture06_ssl_evaluation_pipeline.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5794 ...]{lecture06_ssl_evaluation_pipeline.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
+[118] [119]
+<lecture06_ssl_evaluation_pipeline.png, id=2680, 578.91281pt x 325.96782pt>
+File: lecture06_ssl_evaluation_pipeline.png Graphic file (type png)
+<use lecture06_ssl_evaluation_pipeline.png>
+Package pdftex.def Info: lecture06_ssl_evaluation_pipeline.png  used on input line 5794.
+(pdftex.def)             Requested size: 409.71692pt x 230.69765pt.
+ [120]
 Overfull \hbox (39.21223pt too wide) in paragraph at lines 5802--5803
 []\T2A/cmr/m/n/12 Идея: если модель умеет решать задачу, требующую понимания структуры изображения,
  []
 
-[117]
+[121 <./lecture06_ssl_evaluation_pipeline.png>]
 Overfull \hbox (6.22243pt too wide) in paragraph at lines 5831--5832
 \T2A/cmr/m/n/12 иметь некоторый vi-sual com-mon-sense, то есть понимать, как объекты обычно выглядят. 
  []
@@ -2011,22 +1820,12 @@ Overfull \hbox (5.33008pt too wide) in paragraph at lines 5833--5834
 []\T2A/cmr/m/n/12 Например, чтобы понять, что птица повернута на $\OT1/cmr/m/n/12 90[]$\T2A/cmr/m/n/12 , модель должна распознавать
  []
 
+<lecture06_rotation_prediction.png, id=2698, 583.42969pt x 316.93407pt>
+File: lecture06_rotation_prediction.png Graphic file (type png)
+<use lecture06_rotation_prediction.png>
+Package pdftex.def Info: lecture06_rotation_prediction.png  used on input line 5838.
+(pdftex.def)             Requested size: 409.71692pt x 222.57289pt.
 
-LaTeX Warning: File `lecture06_rotation_prediction.png' not found on input line 5838.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5838: Package pdftex.def Error: File `lecture06_rotation_prediction.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5838 ...idth]{lecture06_rotation_prediction.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[118]
 Overfull \hbox (5.7614pt too wide) in paragraph at lines 5844--5845
 \T2A/cmr/m/n/12 После pre-train-ing на ro-ta-tion pre-dic-tion можно проверить, насколько хорошие признаки
  []
@@ -2041,7 +1840,7 @@ Overfull \hbox (33.12866pt too wide) in paragraph at lines 5860--5861
 \T2A/cmr/m/n/12 В этой задаче из изображения выбираются два patch-а. Один patch считается центральным,
  []
 
-[119]
+[122 <./lecture06_rotation_prediction.png>]
 Overfull \hbox (12.68336pt too wide) in paragraph at lines 5862--5863
 []\T2A/cmr/m/n/12 Модель должна предсказать относительное положение второго patch-а относительно
  []
@@ -2061,48 +1860,27 @@ Overfull \hbox (25.7976pt too wide) in paragraph at lines 5878--5879
 \T2A/cmr/m/n/12 В jig-saw pre-text task изображение разбивается на несколько фрагментов, затем фрагменты
  []
 
-
-LaTeX Warning: File `lecture06_jigsaw_pretext.png' not found on input line 5895.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5895: Package pdftex.def Error: File `lecture06_jigsaw_pretext.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5895 ...textwidth]{lecture06_jigsaw_pretext.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<lecture06_jigsaw_pretext.png, id=2705, 584.1825pt x 281.55188pt>
+File: lecture06_jigsaw_pretext.png Graphic file (type png)
+<use lecture06_jigsaw_pretext.png>
+Package pdftex.def Info: lecture06_jigsaw_pretext.png  used on input line 5895.
+(pdftex.def)             Requested size: 409.71692pt x 197.4716pt.
 
 Underfull \hbox (badness 2772) in paragraph at lines 5896--5896
 []\T2A/cmr/m/n/12 Figure 33: []Self-supervised pre-text task: решение jig-saw puz-zle по patch-ам
  []
 
-[120]
+[123]
 Overfull \hbox (6.7486pt too wide) in paragraph at lines 5917--5918
 []\T2A/cmr/m/n/12 Смысл: чтобы восстановить скрытый фрагмент, модель должна понимать контекст
  []
 
-[121]
-
-LaTeX Warning: File `lecture06_inpainting_encoder_decoder.png' not found on input line 5924.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:5924: Package pdftex.def Error: File `lecture06_inpainting_encoder_decoder.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5924 ...ecture06_inpainting_encoder_decoder.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[122]
+<lecture06_inpainting_encoder_decoder.png, id=2710, 545.03625pt x 301.125pt>
+File: lecture06_inpainting_encoder_decoder.png Graphic file (type png)
+<use lecture06_inpainting_encoder_decoder.png>
+Package pdftex.def Info: lecture06_inpainting_encoder_decoder.png  used on input line 5924.
+(pdftex.def)             Requested size: 386.96027pt x 213.79105pt.
+[124 <./lecture06_jigsaw_pretext.png>] [125 <./lecture06_inpainting_encoder_decoder.png>]
 Overfull \hbox (9.75066pt too wide) in paragraph at lines 5973--5974
 []\T2A/cmr/m/n/12 учит модель не просто минимизировать pixel-wise ошибку, а генерировать визуально
  []
@@ -2112,7 +1890,7 @@ Overfull \hbox (29.97432pt too wide) in paragraph at lines 5977--5978
 \T2A/cmr/m/n/12 В col-oriza-tion исходное изображение переводится в grayscale, а модель должна восстановить
  []
 
-[123]
+[126]
 Overfull \hbox (7.7352pt too wide) in paragraph at lines 6037--6038
 []\T2A/cmr/m/n/12 Если объект движется в видео, его цвет должен быть согласован во времени. 
  []
@@ -2122,79 +1900,49 @@ Overfull \hbox (1.03409pt too wide) in paragraph at lines 6060--6061
 \T2A/cmr/m/n/12 научилась переносить цвета между кадрами, она фактически научилась сопоставлять
  []
 
-[124] [125]
+[127] [128]
 Overfull \hbox (19.44199pt too wide) in paragraph at lines 6167--6168
 []\T2A/cmr/m/n/12 То есть con-trastive learn-ing превращается в задачу классификации: найти правильную
  []
 
-[126]
-
-LaTeX Warning: File `lecture06_simclr_positive_pairs.png' not found on input line 6241.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:6241: Package pdftex.def Error: File `lecture06_simclr_positive_pairs.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6241 ...th]{lecture06_simclr_positive_pairs.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[127] [128]
+[129]
+<lecture06_simclr_positive_pairs.png, id=2740, 569.12625pt x 321.45094pt>
+File: lecture06_simclr_positive_pairs.png Graphic file (type png)
+<use lecture06_simclr_positive_pairs.png>
+Package pdftex.def Info: lecture06_simclr_positive_pairs.png  used on input line 6241.
+(pdftex.def)             Requested size: 409.71692pt x 231.42487pt.
+ [130 <./lecture06_simclr_positive_pairs.png>]
 Overfull \hbox (6.16122pt too wide) in paragraph at lines 6288--6289
 []\T2A/cmr/m/n/12 Это важно, потому что con-trastive ob-jec-tive может выбрасывать часть информации,
  []
 
-
+[131]
 Overfull \hbox (13.38603pt too wide) in paragraph at lines 6310--6311
 []\T2A/cmr/m/n/12 Но большой batch size требует много памяти, особенно при back-prop-a-ga-tion. Поэтому
  []
 
-[129]
-
-LaTeX Warning: File `lecture06_moco_scheme.png' not found on input line 6333.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:6333: Package pdftex.def Error: File `lecture06_moco_scheme.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6333 ....9\textwidth]{lecture06_moco_scheme.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[130]
+<lecture06_moco_scheme.png, id=2759, 575.14874pt x 325.96782pt>
+File: lecture06_moco_scheme.png Graphic file (type png)
+<use lecture06_moco_scheme.png>
+Package pdftex.def Info: lecture06_moco_scheme.png  used on input line 6333.
+(pdftex.def)             Requested size: 409.71692pt x 232.21468pt.
+[132]
 Overfull \hbox (11.25179pt too wide) in paragraph at lines 6364--6365
 []\T2A/cmr/m/n/12 Такой up-date делает key en-coder стабильным, что важно, потому что queue содержит
  []
 
-[131]
+[133 <./lecture06_moco_scheme.png>]
 Overfull \hbox (32.62346pt too wide) in paragraph at lines 6416--6417
 []\T2A/cmr/m/n/12 decoupling mini-batch size и neg-a-tive sam-ple size позволяет MoCo v2 быть эффективным
  []
 
-
-LaTeX Warning: File `lecture06_cpc_overview.png' not found on input line 6452.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:6452: Package pdftex.def Error: File `lecture06_cpc_overview.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6452 ...9\textwidth]{lecture06_cpc_overview.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[132] [133]
+[134]
+<lecture06_cpc_overview.png, id=2776, 582.67688pt x 317.68687pt>
+File: lecture06_cpc_overview.png Graphic file (type png)
+<use lecture06_cpc_overview.png>
+Package pdftex.def Info: lecture06_cpc_overview.png  used on input line 6452.
+(pdftex.def)             Requested size: 409.71692pt x 223.39241pt.
+ [135 <./lecture06_cpc_overview.png>]
 Overfull \hbox (2.91914pt too wide) in paragraph at lines 6506--6507
 []\T2A/cmr/m/n/12 Затем применяется In-foNCE loss: правильный fu-ture sam-ple должен иметь высокий
  []
@@ -2204,12 +1952,12 @@ Overfull \hbox (0.22249pt too wide) in paragraph at lines 6522--6523
 []\T2A/cmr/m/n/12 Тогда верхняя часть изображения является con-text, а нижнюю нужно предсказать
  []
 
-[134]
+[136]
 Overfull \hbox (23.51125pt too wide) in paragraph at lines 6555--6556
 []\T2A/cmr/m/n/12 CLIP использует con-trastive learn-ing между изображениями и текстовыми описаниями. 
  []
 
-[135]
+[137]
 Overfull \hbox (16.66782pt too wide) in paragraph at lines 6584--6585
 []\T2A/cmr/m/n/12 CPC применяет con-trastive learn-ing к последовательностям и учится предсказывать
  []
@@ -2219,7 +1967,7 @@ Overfull \hbox (48.25784pt too wide) in paragraph at lines 6590--6592
 []\T2A/cmr/m/n/12 Определение self-supervised learn-ing: la-bels для pre-text task генерируются автоматически. 
  []
 
-[136] [137]
+[138] [139]
 Overfull \hbox (52.3279pt too wide) in paragraph at lines 6722--6723
 []\T2A/cmr/m/n/12 Главная идея лекции: Re-in-force-ment Learn-ing изучает обучение агента через взаимодействие
  []
@@ -2229,59 +1977,39 @@ Overfull \hbox (5.28711pt too wide) in paragraph at lines 6722--6723
 \T2A/cmr/m/n/12 для каждого состояния; он получает только feed-back в виде re-ward и должен научиться
  []
 
-[138]
+[140]
 Overfull \hbox (23.2273pt too wide) in paragraph at lines 6750--6751
 []\T2A/cmr/m/n/12 Обычно предполагается, что объекты выборки независимы и одинаково распределены,
  []
 
-[139]
-
-LaTeX Warning: File `lecture07_agent_environment_loop.png' not found on input line 6806.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:6806: Package pdftex.def Error: File `lecture07_agent_environment_loop.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6806 ...h]{lecture07_agent_environment_loop.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[140] [141]
+[141]
+<lecture07_agent_environment_loop.png, id=2821, 603.0028pt x 209.28188pt>
+File: lecture07_agent_environment_loop.png Graphic file (type png)
+<use lecture07_agent_environment_loop.png>
+Package pdftex.def Info: lecture07_agent_environment_loop.png  used on input line 6806.
+(pdftex.def)             Requested size: 386.96027pt x 134.30078pt.
+ [142 <./lecture07_agent_environment_loop.png>]
 Overfull \hbox (3.81456pt too wide) in paragraph at lines 6866--6867
 []\T2A/cmr/m/n/12 action --- изменение скорости вращения, угла и других управляющих параметров; 
  []
 
-
+[143]
 Overfull \hbox (19.89474pt too wide) in paragraph at lines 6892--6893
 []\T2A/cmr/m/n/12 Но иногда действие, которое хорошо прямо сейчас, плохо в долгосрочной перспективе. 
  []
 
-[142] [143]
-
-LaTeX Warning: File `lecture07_mdp_formalism.png' not found on input line 6991.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:6991: Package pdftex.def Error: File `lecture07_mdp_formalism.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6991 ...\textwidth]{lecture07_mdp_formalism.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[144] [145]
+[144]
+<lecture07_mdp_formalism.png, id=2842, 617.30624pt x 353.06906pt>
+File: lecture07_mdp_formalism.png Graphic file (type png)
+<use lecture07_mdp_formalism.png>
+Package pdftex.def Info: lecture07_mdp_formalism.png  used on input line 6991.
+(pdftex.def)             Requested size: 386.96027pt x 221.33026pt.
+ [145] [146 <./lecture07_mdp_formalism.png>]
 Overfull \hbox (1.32768pt too wide) in paragraph at lines 7054--7055
 \T2A/cmr/bx/n/12 Value func-tion \T2A/cmr/m/n/12 показывает, насколько хорошо находиться в состоянии $\OML/cmm/m/it/12 s$\T2A/cmr/m/n/12 , если дальше
  []
 
-[146]
+[147]
 Overfull \hbox (30.95657pt too wide) in paragraph at lines 7149--7150
 []\T2A/cmr/m/n/12 Идея op-er-ant con-di-tion-ing: поведение может усиливаться или ослабляться в зависимости
  []
@@ -2296,39 +2024,19 @@ Overfull \hbox (1.83488pt too wide) in paragraph at lines 7151--7152
 \T2A/cmr/m/n/12 растјт. Это похоже на RL: действие, приведшее к положительному re-ward, становится
  []
 
-[147] [148]
-
-LaTeX Warning: File `lecture07_cem_tabular_overview.png' not found on input line 7222.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:7222: Package pdftex.def Error: File `lecture07_cem_tabular_overview.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7222 ...dth]{lecture07_cem_tabular_overview.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[149]
-
-LaTeX Warning: File `lecture07_cem_policy_update.png' not found on input line 7263.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:7263: Package pdftex.def Error: File `lecture07_cem_policy_update.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7263 ...twidth]{lecture07_cem_policy_update.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
+[148]
+<lecture07_cem_tabular_overview.png, id=2866, 615.80063pt x 341.77687pt>
+File: lecture07_cem_tabular_overview.png Graphic file (type png)
+<use lecture07_cem_tabular_overview.png>
+Package pdftex.def Info: lecture07_cem_tabular_overview.png  used on input line 7222.
+(pdftex.def)             Requested size: 386.96027pt x 214.77298pt.
+ [149]
+<lecture07_cem_policy_update.png, id=2876, 618.81187pt x 341.02406pt>
+File: lecture07_cem_policy_update.png Graphic file (type png)
+<use lecture07_cem_policy_update.png>
+Package pdftex.def Info: lecture07_cem_policy_update.png  used on input line 7263.
+(pdftex.def)             Requested size: 386.96027pt x 213.25919pt.
+ [150 <./lecture07_cem_tabular_overview.png>]
 Overfull \hbox (19.21027pt too wide) in paragraph at lines 7271--7272
 []\T2A/cmr/m/n/12 В реальных задачах пространство состояний может быть огромным или бесконечным. 
  []
@@ -2338,23 +2046,13 @@ Overfull \hbox (5.92863pt too wide) in paragraph at lines 7273--7274
 []\T2A/cmr/m/n/12 Например, если ob-ser-va-tion --- изображение из игры, то число возможных состояний
  []
 
-[150] [151]
-
-LaTeX Warning: File `lecture07_approximate_cem.png' not found on input line 7345.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:7345: Package pdftex.def Error: File `lecture07_approximate_cem.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7345 ...extwidth]{lecture07_approximate_cem.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[152] [153] [154]
+[151 <./lecture07_cem_policy_update.png>]
+<lecture07_approximate_cem.png, id=2890, 614.295pt x 345.54094pt>
+File: lecture07_approximate_cem.png Graphic file (type png)
+<use lecture07_approximate_cem.png>
+Package pdftex.def Info: lecture07_approximate_cem.png  used on input line 7345.
+(pdftex.def)             Requested size: 409.71692pt x 230.46725pt.
+ [152 <./lecture07_approximate_cem.png>] [153] [154]
 Underfull \hbox (badness 10000) in paragraph at lines 7582--7582
 []|\T2A/cmr/m/n/12 Цель обычно локальная:
  []
@@ -2385,89 +2083,49 @@ Overfull \hbox (0.2836pt too wide) in paragraph at lines 7811--7812
  []
 
 [159]
-
-LaTeX Warning: File `lecture08_mdp_definition.png' not found on input line 7855.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:7855: Package pdftex.def Error: File `lecture08_mdp_definition.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7855 ...textwidth]{lecture08_mdp_definition.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[160]
+<lecture08_mdp_definition.png, id=2948, 569.12625pt x 343.2825pt>
+File: lecture08_mdp_definition.png Graphic file (type png)
+<use lecture08_mdp_definition.png>
+Package pdftex.def Info: lecture08_mdp_definition.png  used on input line 7855.
+(pdftex.def)             Requested size: 386.96027pt x 233.41328pt.
+ [160]
 Overfull \hbox (2.90579pt too wide) in paragraph at lines 7866--7867
 []\T2A/cmr/m/n/12 Все цели и намерения можно рассматривать как максимизацию ожидаемой
  []
 
-[161] [162]
-
-LaTeX Warning: File `lecture08_discounting_finite_sum.png' not found on input line 7971.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:7971: Package pdftex.def Error: File `lecture08_discounting_finite_sum.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7971 ...h]{lecture08_discounting_finite_sum.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[163] [164]
-
-LaTeX Warning: File `lecture08_discounting_end_of_effect.png' not found on input line 8062.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:8062: Package pdftex.def Error: File `lecture08_discounting_end_of_effect.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8062 ...lecture08_discounting_end_of_effect.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[161 <./lecture08_mdp_definition.png>] [162]
+<lecture08_discounting_finite_sum.png, id=2964, 556.32843pt x 318.43968pt>
+File: lecture08_discounting_finite_sum.png Graphic file (type png)
+<use lecture08_discounting_finite_sum.png>
+Package pdftex.def Info: lecture08_discounting_finite_sum.png  used on input line 7971.
+(pdftex.def)             Requested size: 386.96027pt x 221.49715pt.
+ [163 <./lecture08_discounting_finite_sum.png>]
+<lecture08_discounting_end_of_effect.png, id=2971, 557.08125pt x 402.00188pt>
+File: lecture08_discounting_end_of_effect.png Graphic file (type png)
+<use lecture08_discounting_end_of_effect.png>
+Package pdftex.def Info: lecture08_discounting_end_of_effect.png  used on input line 8062.
+(pdftex.def)             Requested size: 386.96027pt x 279.24634pt.
 
 Underfull \hbox (badness 4621) in paragraph at lines 8063--8063
 []\T2A/cmr/m/n/12 Figure 45: []Интерпретация dis-count-ing: эффект действия продолжается с
  []
 
-[165] [166] [167]
+[164] [165 <./lecture08_discounting_end_of_effect.png>]
 Overfull \hbox (3.70978pt too wide) in paragraph at lines 8154--8155
 []\T2A/cmr/m/n/12 Интуиция: shap-ing добавляет подсказку агенту, но не должен менять оптимальную
  []
 
-
-LaTeX Warning: File `lecture08_reward_shaping.png' not found on input line 8159.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:8159: Package pdftex.def Error: File `lecture08_reward_shaping.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8159 ...textwidth]{lecture08_reward_shaping.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[168]
+<lecture08_reward_shaping.png, id=2984, 549.55313pt x 380.17032pt>
+File: lecture08_reward_shaping.png Graphic file (type png)
+<use lecture08_reward_shaping.png>
+Package pdftex.def Info: lecture08_reward_shaping.png  used on input line 8159.
+(pdftex.def)             Requested size: 386.96027pt x 267.70105pt.
+[166]
 Overfull \hbox (14.14955pt too wide) in paragraph at lines 8192--8193
 \T2A/cmr/m/n/12 Если известна dy-nam-ics, то можно мысленно построить дерево всех возможных будущих
  []
 
-
+[167 <./lecture08_reward_shaping.png>]
 Overfull \hbox (43.19322pt too wide) in paragraph at lines 8198--8199
 []\T2A/cmr/m/n/12 Проблема: полный перебор дерева быстро становится невозможным из-за комбинаторного
  []
@@ -2477,43 +2135,23 @@ Overfull \hbox (1.00137pt too wide) in paragraph at lines 8200--8201
 []\T2A/cmr/m/n/12 Value func-tions позволяют компактно описывать ожидаемую полезность состояний
  []
 
-
-LaTeX Warning: File `lecture08_backup_tree.png' not found on input line 8205.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:8205: Package pdftex.def Error: File `lecture08_backup_tree.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8205 ...75\textwidth]{lecture08_backup_tree.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[169] [170]
-
-LaTeX Warning: File `lecture08_state_value_function.png' not found on input line 8258.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:8258: Package pdftex.def Error: File `lecture08_state_value_function.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8258 ...dth]{lecture08_state_value_function.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<lecture08_backup_tree.png, id=2995, 527.72156pt x 326.72063pt>
+File: lecture08_backup_tree.png Graphic file (type png)
+<use lecture08_backup_tree.png>
+Package pdftex.def Info: lecture08_backup_tree.png  used on input line 8205.
+(pdftex.def)             Requested size: 341.43307pt x 211.38377pt.
+[168 <./lecture08_backup_tree.png>]
+<lecture08_state_value_function.png, id=3003, 558.58687pt x 386.19281pt>
+File: lecture08_state_value_function.png Graphic file (type png)
+<use lecture08_state_value_function.png>
+Package pdftex.def Info: lecture08_state_value_function.png  used on input line 8258.
+(pdftex.def)             Requested size: 386.96027pt x 267.53992pt.
 
 Overfull \hbox (6.71176pt too wide) in paragraph at lines 8280--8281
 []\T2A/cmr/m/n/12 После первого действия pol-icy stochas-tic-ity на первом шаге нет, потому что действие
  []
 
-[171]
+[169 <./lecture08_state_value_function.png>]
 Overfull \hbox (10.45677pt too wide) in paragraph at lines 8300--8301
 []\T2A/cmr/m/n/12 --- насколько хорошо выполнить действие $\OML/cmm/m/it/12 a$ \T2A/cmr/m/n/12 в состоянии $\OML/cmm/m/it/12 s$\T2A/cmr/m/n/12 , если после этого следовать
  []
@@ -2542,28 +2180,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\pi' on input line 8302.
 
-[172]
-
-LaTeX Warning: File `lecture08_bellman_expectation_equations.png' not found on input line 8402.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:8402: Package pdftex.def Error: File `lecture08_bellman_expectation_equations.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8402 ...ure08_bellman_expectation_equations.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[170]
+<lecture08_bellman_expectation_equations.png, id=3015, 556.32843pt x 378.66469pt>
+File: lecture08_bellman_expectation_equations.png Graphic file (type png)
+<use lecture08_bellman_expectation_equations.png>
+Package pdftex.def Info: lecture08_bellman_expectation_equations.png  used on input line 8402.
+(pdftex.def)             Requested size: 386.96027pt x 263.38786pt.
 
 Underfull \hbox (badness 7540) in paragraph at lines 8403--8403
 []\T2A/cmr/m/n/12 Figure 49: []Bellman ex-pec-ta-tion equa-tions оценивают value func-tions для
  []
 
-[173]
+[171 <./lecture08_bellman_expectation_equations.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 8457.
@@ -2572,7 +2200,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 8457.
 
-[174]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 8505.
@@ -2581,22 +2208,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 8505.
 
+[172]
+<lecture08_bellman_optimality_q.png, id=3026, 557.08125pt x 386.19281pt>
+File: lecture08_bellman_optimality_q.png Graphic file (type png)
+<use lecture08_bellman_optimality_q.png>
+Package pdftex.def Info: lecture08_bellman_optimality_q.png  used on input line 8530.
+(pdftex.def)             Requested size: 386.96027pt x 268.26472pt.
 
-LaTeX Warning: File `lecture08_bellman_optimality_q.png' not found on input line 8530.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:8530: Package pdftex.def Error: File `lecture08_bellman_optimality_q.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8530 ...dth]{lecture08_bellman_optimality_q.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[175]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 8534.
@@ -2613,17 +2231,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 8534.
 
-[176]
+[173 <./lecture08_bellman_optimality_q.png>]
 Overfull \hbox (17.1865pt too wide) in paragraph at lines 8589--8590
 []\T2A/cmr/m/n/12 Можно решать еј точно, но на практике часто используют итеративное приближение. 
  []
 
-
+[174]
 Overfull \hbox (0.76324pt too wide) in paragraph at lines 8652--8653
 \T2A/cmr/bx/n/12 Generalized Pol-icy It-er-a-tion, GPI \T2A/cmr/m/n/12 --- общий принцип, состоящий из двух процессов: 
  []
 
-[177] [178]
+[175]
 Underfull \hbox (badness 10000) in paragraph at lines 8751--8751
 []|\T2A/cmr/m/n/12 Сначала оценивает pol-icy до
  []
@@ -2633,91 +2251,50 @@ Overfull \hbox (24.99011pt too wide) in paragraph at lines 8790--8791
 []\T2A/cmr/m/n/12 Reward de-sign критически важен: плохой re-ward ведјт к нежелательному поведению. 
  []
 
-[179] [180] [181] [182]
+[176] [177] [178] [179]
 Overfull \hbox (14.07344pt too wide) in paragraph at lines 9036--9037
 []\T2A/cmr/m/n/12 Если эпизод бесконечный, re-turn может расходиться. Например, если агент получает
  []
 
-[183]
+[180]
 Overfull \hbox (6.58347pt too wide) in paragraph at lines 9070--9071
 []\T2A/cmr/m/n/12 Вывод: агент оптимизирует именно заданный re-ward, а не намерение разработчика. 
  []
 
-[184]
+[181]
+<lecture09_discounting_finite_sum.png, id=3093, 512.66531pt x 286.82156pt>
+File: lecture09_discounting_finite_sum.png Graphic file (type png)
+<use lecture09_discounting_finite_sum.png>
+Package pdftex.def Info: lecture09_discounting_finite_sum.png  used on input line 9120.
+(pdftex.def)             Requested size: 386.96027pt x 216.49423pt.
+ [182 <./lecture09_discounting_finite_sum.png>] [183]
+<lecture09_learning_from_trajectories.png, id=3104, 610.53094pt x 338.01282pt>
+File: lecture09_learning_from_trajectories.png Graphic file (type png)
+<use lecture09_learning_from_trajectories.png>
+Package pdftex.def Info: lecture09_learning_from_trajectories.png  used on input line 9277.
+(pdftex.def)             Requested size: 409.71692pt x 226.8439pt.
 
-LaTeX Warning: File `lecture09_discounting_finite_sum.png' not found on input line 9120.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:9120: Package pdftex.def Error: File `lecture09_discounting_finite_sum.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9120 ...h]{lecture09_discounting_finite_sum.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[185] [186]
-
-LaTeX Warning: File `lecture09_learning_from_trajectories.png' not found on input line 9277.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:9277: Package pdftex.def Error: File `lecture09_learning_from_trajectories.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9277 ...ecture09_learning_from_trajectories.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[187]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 9281.
 
-
+[184 <./lecture09_learning_from_trajectories.png>]
 Overfull \hbox (6.3262pt too wide) in paragraph at lines 9295--9296
 []\T2A/cmr/m/n/12 В model-free set-ting dy-nam-ics неизвестна. Поэтому $\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\OT1/cmr/m/n/12 )$ \T2A/cmr/m/n/12 само по себе плохо помогает
  []
 
-[188]
+<lecture09_monte_carlo_paths.png, id=3111, 609.02531pt x 349.305pt>
+File: lecture09_monte_carlo_paths.png Graphic file (type png)
+<use lecture09_monte_carlo_paths.png>
+Package pdftex.def Info: lecture09_monte_carlo_paths.png  used on input line 9342.
+(pdftex.def)             Requested size: 386.96027pt x 221.94478pt.
+[185] [186 <./lecture09_monte_carlo_paths.png>]
+<lecture09_q_learning_update.png, id=3127, 611.28375pt x 342.5297pt>
+File: lecture09_q_learning_update.png Graphic file (type png)
+<use lecture09_q_learning_update.png>
+Package pdftex.def Info: lecture09_q_learning_update.png  used on input line 9462.
+(pdftex.def)             Requested size: 386.96027pt x 216.82971pt.
 
-LaTeX Warning: File `lecture09_monte_carlo_paths.png' not found on input line 9342.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:9342: Package pdftex.def Error: File `lecture09_monte_carlo_paths.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9342 ...twidth]{lecture09_monte_carlo_paths.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[189] [190]
-
-LaTeX Warning: File `lecture09_q_learning_update.png' not found on input line 9462.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:9462: Package pdftex.def Error: File `lecture09_q_learning_update.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9462 ...twidth]{lecture09_q_learning_update.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[191]
 Underfull \hbox (badness 10000) in paragraph at lines 9475--9476
 []|\T2A/cmr/m/n/12 Использует boot-strap-ping через
  []
@@ -2732,32 +2309,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 9481--9482
 []|\T2A/cmr/m/n/12 Использует рекурсивную формулу
  []
 
+[187 <./lecture09_q_learning_update.png>]
+<lecture09_mc_vs_td.png, id=3137, 563.85657pt x 301.8778pt>
+File: lecture09_mc_vs_td.png Graphic file (type png)
+<use lecture09_mc_vs_td.png>
+Package pdftex.def Info: lecture09_mc_vs_td.png  used on input line 9493.
+(pdftex.def)             Requested size: 386.96027pt x 207.17197pt.
 
-LaTeX Warning: File `lecture09_mc_vs_td.png' not found on input line 9493.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:9493: Package pdftex.def Error: File `lecture09_mc_vs_td.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9493 ...=0.85\textwidth]{lecture09_mc_vs_td.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[192]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 9497.
 
-[193] [194]
+[188 <./lecture09_mc_vs_td.png>] [189]
 Overfull \hbox (4.61937pt too wide) in paragraph at lines 9650--9651
 \T2A/cmr/m/n/12 Иначе обучение становится нестабильным, потому что tar-get сам зависит от обучаемой
  []
 
-[195] [196] [197] [198]
+[190] [191] [192] [193]
 Overfull \hbox (42.15791pt too wide) in paragraph at lines 9903--9904
 []\T2A/cmr/m/n/12 Главная идея лекции: вместо того чтобы учить $\OML/cmm/m/it/12 Q\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s; a\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , можно напрямую параметризовать
  []
@@ -2767,27 +2335,18 @@ Overfull \hbox (7.14224pt too wide) in paragraph at lines 9921--9922
 []\T2A/cmr/m/n/12 Но иногда учить точные $\OML/cmm/m/it/12 Q$\T2A/cmr/m/n/12 -values сложнее, чем просто научиться выбирать хорошие
  []
 
-
-LaTeX Warning: File `lecture10_q_approximation_error.png' not found on input line 9954.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:9954: Package pdftex.def Error: File `lecture10_q_approximation_error.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9954 ...th]{lecture10_q_approximation_error.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[199] [200]
+[194]
+<lecture10_q_approximation_error.png, id=3194, 519.44063pt x 444.91219pt>
+File: lecture10_q_approximation_error.png Graphic file (type png)
+<use lecture10_q_approximation_error.png>
+Package pdftex.def Info: lecture10_q_approximation_error.png  used on input line 9954.
+(pdftex.def)             Requested size: 386.96027pt x 331.43622pt.
+ [195 <./lecture10_q_approximation_error.png>]
 Overfull \hbox (17.24281pt too wide) in paragraph at lines 10038--10039
 []\T2A/cmr/m/n/12 Если всегда играть один и тот же ход, противник быстро адаптируется. Оптимальная
  []
 
-[201]
+[196]
 Underfull \hbox (badness 10000) in paragraph at lines 10061--10062
 []|\T2A/cmr/m/n/12 Exploration обычно добавляется
  []
@@ -2797,22 +2356,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 10066--10067
 []|\T2A/cmr/m/n/12 Классический RE-IN-FORCE
  []
 
-
-LaTeX Warning: File `lecture10_value_based_vs_policy_based.png' not found on input line 10079.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:10079: Package pdftex.def Error: File `lecture10_value_based_vs_policy_based.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10079 ...ture10_value_based_vs_policy_based.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[202] [203] [204]
+<lecture10_value_based_vs_policy_based.png, id=3205, 608.2725pt x 280.79906pt>
+File: lecture10_value_based_vs_policy_based.png Graphic file (type png)
+<use lecture10_value_based_vs_policy_based.png>
+Package pdftex.def Info: lecture10_value_based_vs_policy_based.png  used on input line 10079.
+(pdftex.def)             Requested size: 386.96027pt x 178.63962pt.
+[197 <./lecture10_value_based_vs_policy_based.png>] [198]
 Overfull \hbox (67.16025pt too wide) in paragraph at lines 10201--10202
 []\T2A/cmr/m/n/12 Проблема: мы хотим вычислить $\OMS/cmsy/m/n/12 r[]\OML/cmm/m/it/12 J\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , но re-ward и среда могут быть недифференцируемыми. 
  []
@@ -2822,84 +2371,45 @@ Overfull \hbox (10.66008pt too wide) in paragraph at lines 10223--10224
 []\T2A/cmr/m/n/12 Нужно получить аналитическую формулу gra-di-ent, которая позволяет использовать
  []
 
-[205] [206]
+[199] [200] [201]
+<lecture10_reinforce_q_using_g.png, id=3238, 584.93532pt x 409.53pt>
+File: lecture10_reinforce_q_using_g.png Graphic file (type png)
+<use lecture10_reinforce_q_using_g.png>
+Package pdftex.def Info: lecture10_reinforce_q_using_g.png  used on input line 10444.
+(pdftex.def)             Requested size: 386.96027pt x 270.93427pt.
 
-LaTeX Warning: File `lecture10_reinforce_q_using_g.png' not found on input line 10444.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:10444: Package pdftex.def Error: File `lecture10_reinforce_q_using_g.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10444 ...dth]{lecture10_reinforce_q_using_g.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[207]
 Overfull \hbox (5.71622pt too wide) in paragraph at lines 10487--10488
 []\T2A/cmr/m/n/12 Благодаря этому все $\OML/cmm/m/it/12 G[]$ \T2A/cmr/m/n/12 для tra-jec-tory можно посчитать за линейное время, проходя
  []
 
-
-LaTeX Warning: File `lecture10_discounted_returns_linear_time.png' not found on input line 10492.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:10492: Package pdftex.def Error: File `lecture10_discounted_returns_linear_time.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10492 ...e10_discounted_returns_linear_time.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[208] [209] [210] [211]
-
-LaTeX Warning: File `lecture10_actor_critic.png' not found on input line 10721.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:10721: Package pdftex.def Error: File `lecture10_actor_critic.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10721 ...\textwidth]{lecture10_actor_critic.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[212] [213]
+<lecture10_discounted_returns_linear_time.png, id=3239, 457.71pt x 259.7203pt>
+File: lecture10_discounted_returns_linear_time.png Graphic file (type png)
+<use lecture10_discounted_returns_linear_time.png>
+Package pdftex.def Info: lecture10_discounted_returns_linear_time.png  used on input line 10492.
+(pdftex.def)             Requested size: 364.19667pt x 206.66687pt.
+[202 <./lecture10_reinforce_q_using_g.png>] [203 <./lecture10_discounted_returns_linear_time.png>] [204] [205]
+<lecture10_actor_critic.png, id=3262, 553.31718pt x 183.68625pt>
+File: lecture10_actor_critic.png Graphic file (type png)
+<use lecture10_actor_critic.png>
+Package pdftex.def Info: lecture10_actor_critic.png  used on input line 10721.
+(pdftex.def)             Requested size: 364.19667pt x 120.90254pt.
+ [206 <./lecture10_actor_critic.png>]
 Overfull \hbox (14.4746pt too wide) in paragraph at lines 10827--10828
 \T2A/cmr/m/n/12 В pol-icy gra-di-ent методах pol-icy может слишком быстро стать почти детерминированной.
  []
 
-
-LaTeX Warning: File `lecture10_a3c_scheme.png' not found on input line 10881.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:10881: Package pdftex.def Error: File `lecture10_a3c_scheme.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10881 ...85\textwidth]{lecture10_a3c_scheme.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[214] [215] [216] [217] [218]
+[207]
+<lecture10_a3c_scheme.png, id=3273, 598.48593pt x 386.94562pt>
+File: lecture10_a3c_scheme.png Graphic file (type png)
+<use lecture10_a3c_scheme.png>
+Package pdftex.def Info: lecture10_a3c_scheme.png  used on input line 10881.
+(pdftex.def)             Requested size: 386.96027pt x 250.1891pt.
+ [208 <./lecture10_a3c_scheme.png>] [209] [210] [211]
 Overfull \hbox (16.37064pt too wide) in paragraph at lines 11114--11115
 \T2A/cmr/m/n/12 позволяет оптимизировать не like-li-hood reference-последовательности, а непосредственно
  []
 
-[219]
+[212]
 Overfull \hbox (15.9268pt too wide) in paragraph at lines 11180--11181
 []\T2A/cmr/bx/n/12 Evolution strate-gies\T2A/cmr/m/n/12 : немного изменять pol-icy, запускать еј и оставлять варианты
  []
@@ -2909,118 +2419,58 @@ Overfull \hbox (26.41473pt too wide) in paragraph at lines 11182--11183
 []\T2A/cmr/bx/n/12 Policy gra-di-ent\T2A/cmr/m/n/12 : напрямую подниматься по градиенту $\OMS/cmsy/m/n/12 r\OML/cmm/m/it/12 J$ \T2A/cmr/m/n/12 относительно параметров
  []
 
-[220]
-
-LaTeX Warning: File `lecture11_encoder_decoder_tasks.png' not found on input line 11216.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11216: Package pdftex.def Error: File `lecture11_encoder_decoder_tasks.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11216 ...h]{lecture11_encoder_decoder_tasks.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[213]
+<lecture11_encoder_decoder_tasks.png, id=3318, 606.76688pt x 350.81062pt>
+File: lecture11_encoder_decoder_tasks.png Graphic file (type png)
+<use lecture11_encoder_decoder_tasks.png>
+Package pdftex.def Info: lecture11_encoder_decoder_tasks.png  used on input line 11216.
+(pdftex.def)             Requested size: 386.96027pt x 223.73114pt.
 
 Underfull \hbox (badness 4859) in paragraph at lines 11217--11217
 []\T2A/cmr/m/n/12 Figure 62: []Encoder-decoder задачи: один объект или последовательность
  []
 
-[221] [222]
-
-LaTeX Warning: File `lecture11_attentive_translation_alignment.png' not found on input line 11345.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11345: Package pdftex.def Error: File `lecture11_attentive_translation_alignment.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11345 ...11_attentive_translation_alignment.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[223] [224]
-
-LaTeX Warning: File `lecture11_distribution_shift.png' not found on input line 11432.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11432: Package pdftex.def Error: File `lecture11_distribution_shift.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11432 ...idth]{lecture11_distribution_shift.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[225]
+[214 <./lecture11_encoder_decoder_tasks.png>] [215]
+<lecture11_attentive_translation_alignment.png, id=3329, 568.37344pt x 323.70938pt>
+File: lecture11_attentive_translation_alignment.png Graphic file (type png)
+<use lecture11_attentive_translation_alignment.png>
+Package pdftex.def Info: lecture11_attentive_translation_alignment.png  used on input line 11345.
+(pdftex.def)             Requested size: 386.96027pt x 220.39607pt.
+ [216] [217 <./lecture11_attentive_translation_alignment.png>]
+<lecture11_distribution_shift.png, id=3341, 575.90157pt x 312.41719pt>
+File: lecture11_distribution_shift.png Graphic file (type png)
+<use lecture11_distribution_shift.png>
+Package pdftex.def Info: lecture11_distribution_shift.png  used on input line 11432.
+(pdftex.def)             Requested size: 386.96027pt x 209.9286pt.
+ [218]
 Overfull \hbox (17.64728pt too wide) in paragraph at lines 11450--11451
 []\T2A/cmr/m/n/12 Supervised max-i-mum like-li-hood заставляет модель поднимать вероятность конкретных
  []
 
-[226] [227]
+[219 <./lecture11_distribution_shift.png>] [220]
+<lecture11_seq2seq_as_pomdp.png, id=3357, 578.16pt x 331.2375pt>
+File: lecture11_seq2seq_as_pomdp.png Graphic file (type png)
+<use lecture11_seq2seq_as_pomdp.png>
+Package pdftex.def Info: lecture11_seq2seq_as_pomdp.png  used on input line 11523.
+(pdftex.def)             Requested size: 386.96027pt x 221.69547pt.
 
-LaTeX Warning: File `lecture11_seq2seq_as_pomdp.png' not found on input line 11523.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11523: Package pdftex.def Error: File `lecture11_seq2seq_as_pomdp.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11523 ...twidth]{lecture11_seq2seq_as_pomdp.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[228]
 Overfull \hbox (1.19873pt too wide) in paragraph at lines 11540--11541
 []\T2A/cmr/m/n/12 В seq2seq случае $\OML/cmm/m/it/12 a$ \T2A/cmr/m/n/12 можно понимать как всю сгенерированную последовательность: 
  []
 
-[229] [230] [231]
-
-LaTeX Warning: File `lecture11_training_vs_inference.png' not found on input line 11727.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11727: Package pdftex.def Error: File `lecture11_training_vs_inference.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11727 ...h]{lecture11_training_vs_inference.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[232]
-
-LaTeX Warning: File `lecture11_scst_advantage.png' not found on input line 11778.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11778: Package pdftex.def Error: File `lecture11_scst_advantage.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11778 ...extwidth]{lecture11_scst_advantage.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[233] [234]
+[221 <./lecture11_seq2seq_as_pomdp.png>] [222] [223]
+<lecture11_training_vs_inference.png, id=3373, 580.41844pt x 325.96782pt>
+File: lecture11_training_vs_inference.png Graphic file (type png)
+<use lecture11_training_vs_inference.png>
+Package pdftex.def Info: lecture11_training_vs_inference.png  used on input line 11727.
+(pdftex.def)             Requested size: 386.96027pt x 217.32294pt.
+ [224 <./lecture11_training_vs_inference.png>]
+<lecture11_scst_advantage.png, id=3380, 580.41844pt x 331.2375pt>
+File: lecture11_scst_advantage.png Graphic file (type png)
+<use lecture11_scst_advantage.png>
+Package pdftex.def Info: lecture11_scst_advantage.png  used on input line 11778.
+(pdftex.def)             Requested size: 386.96027pt x 220.83624pt.
+ [225 <./lecture11_scst_advantage.png>]
 Overfull \hbox (18.74182pt too wide) in paragraph at lines 11807--11808
 []\T2A/cmr/m/n/12 Значит sam-pled se-quence лучше текущего greedy поведения модели. Нужно увеличить
  []
@@ -3030,38 +2480,28 @@ Overfull \hbox (34.10341pt too wide) in paragraph at lines 11854--11855
 \T2A/cmr/m/n/12 В презентации приводится таблица результатов для im-age cap-tion-ing. Модели сравниваются
  []
 
-[235]
+[226]
+<lecture11_scst_results.png, id=3393, 502.87875pt x 282.30469pt>
+File: lecture11_scst_results.png Graphic file (type png)
+<use lecture11_scst_results.png>
+Package pdftex.def Info: lecture11_scst_results.png  used on input line 11870.
+(pdftex.def)             Requested size: 386.96027pt x 217.2288pt.
 
-LaTeX Warning: File `lecture11_scst_results.png' not found on input line 11870.
-
-
-c:/dev/nlp_-_rl_mipt_course/conspect/NLP&RL.tex:11870: Package pdftex.def Error: File `lecture11_scst_results.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11870 ...\textwidth]{lecture11_scst_results.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[236]
 Overfull \hbox (44.53113pt too wide) in paragraph at lines 11886--11887
 []\T2A/cmr/m/n/12 Например, модель может выучить шаблон, который хорошо выглядит для автоматической
  []
 
-
+[227 <./lecture11_scst_results.png>]
 Overfull \hbox (26.55139pt too wide) in paragraph at lines 11892--11893
 []\T2A/cmr/m/n/12 Поэтому нужно проверять val-i-da-tion per-for-mance и желательно использовать несколько
  []
 
-[237]
+
 Overfull \hbox (15.42429pt too wide) in paragraph at lines 11930--11931
 []\T2A/cmr/m/n/12 Но если gen-er-a-tor выдајт dis-crete ob-jects, back-prop-a-ga-tion через sam-pling невозможен. 
  []
 
-
+[228]
 Overfull \hbox (27.6943pt too wide) in paragraph at lines 11941--11942
 []\T2A/cmr/m/n/12 В этом случае gen-er-a-tor можно обучать через pol-icy gra-di-ent: gen-er-a-tor рассматривается
  []
@@ -3071,39 +2511,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 11985--11986
 []|\T2A/cmr/m/n/12 Хорошо для post-training под
  []
 
-[238]
+[229]
 Overfull \hbox (24.01102pt too wide) in paragraph at lines 12005--12006
 []\T2A/cmr/m/n/12 Policy gra-di-ent обучается на собственных out-puts и может напрямую оптимизировать
  []
 
-[239] [240] [241] (./NLP&RL.aux)
+[230] [231] (./NLP&RL.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `NLP&RL.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `NLP&RL.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A1480A348299CB53DCE1623D13A08466;79683.
+Package rerunfilecheck Info: File `NLP&RL.out' has not changed.
+(rerunfilecheck)             Checksum: A1480A348299CB53DCE1623D13A08466;79683.
  ) 
 Here is how much of TeX's memory you used:
- 17183 strings out of 467349
- 308074 string characters out of 5419862
- 662744 words of memory out of 5000000
- 45094 multiletter control sequences out of 15000+600000
+ 16285 strings out of 467349
+ 258108 string characters out of 5419862
+ 667945 words of memory out of 5000000
+ 44200 multiletter control sequences out of 15000+600000
  652482 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,614b,698s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,614b,729s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on NLP&RL.pdf (242 pages, 1593529 bytes).
+Output written on NLP&RL.pdf (232 pages, 6142344 bytes).
 PDF statistics:
- 2086 PDF objects out of 2487 (max. 8388607)
- 1755 compressed objects within 18 object streams
- 954 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3735 PDF objects out of 4296 (max. 8388607)
+ 3287 compressed objects within 33 object streams
+ 944 named destinations out of 1000 (max. 500000)
+ 3469 words of extra memory for PDF output out of 10000 (max. 10000000)
 
