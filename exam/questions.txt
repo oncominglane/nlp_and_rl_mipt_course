@@ -1,0 +1,23 @@
+1. BoW, TF-iDF V
+2. Word embeddings. How Word2vec is trained? V
+3. What is negative sampling in word2vec? V
+4. How recurrent block works in RNN?
+5. Attention mechanism
+6. Machine translation. Encoder-decoder models
+7. How to measure quality in text generation problem
+8. Unsupervised approach to machine translation
+9. (Self-)Attention mechanism
+10. Transformer architecture.
+11. BERT pretraining. MLM and NSP objectives.
+12. BERT finetuning. Transfer learning paradigm. Finetuning strategies.
+13. Contrastive learning paradigm. Examples.
+14. How CLIP was trained to produce joined embeddings for text and images?
+
+15. Reinforcement Learning problem statement, how it differs from Supervised Learning
+16. Markov property
+17. Reward discounting. Cumulative reward.
+18. Value function. How to compute for session?
+19. Q-function. How to learn to estimate (2 ways)?
+20. How policy gradient estimates the reward gradient w.r.t. policy parameters?
+21. What is baseline in policy gradient?
+22. Why direct training on Likelihood minimization (or CrossEntropy minimization) does not work well enough in language modeling?
