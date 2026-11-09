@@ -8,6 +8,7 @@
 ## Структура репозитория
 
 - [`lectures/`](lectures/) - презентации лекций курса.
+- [`seminars/`](seminars/) - ноутбуки семинарских занятий.
 - [`tasks/`](tasks/) - практические задания и шаблоны решений.
 - [`exam/`](exam/) - экзаменационный конспект, вопросы, ответы и иллюстрации.
 
@@ -45,6 +46,20 @@
 
 11. **Лекция 11 - Reinforcement Learning in Language Modeling and SCST** - применение RL к sequence generation и языковым моделям.  
     Основные понятия: RL-формализм для генерации последовательностей, encoder-decoder architectures, supervised seq2seq learning, attentive translation, sequence generation, distribution shift, неоднозначность правильного ответа, conversation systems, seq2seq как POMDP, policy gradient для sequence generation, cold start problem, training vs inference mismatch, Self-Critical Sequence Training, SCST baseline, image captioning with SCST, discrete GANs, RL fine-tuning.
+
+## Семинарские ноутбуки
+
+- [`practice1_01_dealing_with_word_embeddings__completed.ipynb`](seminars/practice1_01_dealing_with_word_embeddings__completed.ipynb) - обучение, использование и визуализация word embeddings.
+- [`practice02_cnn_for_texts__completed.ipynb`](seminars/practice02_cnn_for_texts__completed.ipynb) - предсказание зарплаты по тексту вакансии с помощью CNN.
+- [`practice1_03_seq2seq_nmt_and_tensorboard__completed.ipynb`](seminars/practice1_03_seq2seq_nmt_and_tensorboard__completed.ipynb) - модель Seq2Seq для машинного перевода и визуализация обучения в TensorBoard.
+- [`practice1_04_extra_attention_basics_and_tensorboard.ipynb`](seminars/practice1_04_extra_attention_basics_and_tensorboard.ipynb) - основы реализации механизма attention.
+- [`practice1_04_seq2seq_nmt__with_attention.ipynb`](seminars/practice1_04_seq2seq_nmt__with_attention.ipynb) - машинный перевод с помощью Seq2Seq и attention.
+- [`week05_bilstm_for_pos_tagging__completed.ipynb`](seminars/week05_bilstm_for_pos_tagging__completed.ipynb) - определение частей речи с помощью BiLSTM.
+- [`bert_for_text_classification.ipynb`](seminars/bert_for_text_classification.ipynb) - классификация текстов с использованием признаков DistilBERT.
+- [`bert_finetuning.ipynb`](seminars/bert_finetuning.ipynb) - дообучение BERT для классификации предложений на наборе CoLA.
+- [`practice_question_answering_and_tts.ipynb`](seminars/practice_question_answering_and_tts.ipynb) - ответы на вопросы с помощью BERT и озвучивание ответов.
+- [`practice_pagerank.ipynb`](seminars/practice_pagerank.ipynb) - пример реализации алгоритма PageRank.
+- [`pytorch_and_dataloaders.ipynb`](seminars/pytorch_and_dataloaders.ipynb) - основы PyTorch, загрузка данных и обучение модели.
 
 ## Практические задания
 
